@@ -3,7 +3,7 @@
 #define TOTAL_POSITIONS (SIZE * SIZE)
 
 /*
-Last Modified: Chino | 7:05PM | 3/31/25
+Last Modified: Kim | 7:59PM | 3/31/25
 Version:
     +1 Working Prototype
     +0.1 Finished a function
