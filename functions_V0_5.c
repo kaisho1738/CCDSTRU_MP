@@ -3,19 +3,25 @@
 #define TOTAL_POSITIONS (SIZE * SIZE)
 
 /*
-Last Modified: Kim | 7:59PM | 3/31/25
+Last Modified: Chino | 9:54PM | 3/31/25
 Version:
     +1 Working Prototype
     +0.1 Finished a function
     +0.01 Small Changes/Debugging
 ---------------------------------------
 Changes:
-- Added outline of functions to do
+- Added struct B with elements turn, go, and over
+- Removed all instances of int Turn and int Go
 --------------------------------------
 Code Notes [Bugs or other stuff]:
 
 
 */
+struct{
+    int turn;
+    int go;
+    int over;
+} B;
 
 typedef struct{
     int x;
