@@ -17,7 +17,6 @@ int main(){
     int A[] = {1,2,3,4};
     int B; // true or false
     int C; // vertical lines and slopes
-    int Turn = 1, Go = 0, Over = 0;
     
     int index = 0;
 
