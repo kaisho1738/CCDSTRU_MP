@@ -1,13 +1,13 @@
 #include "functions_V0_5.c"
 /*
-Last Modified: Kim |7:59| 3/31/25
+Last Modified: Chino | 9:58PM | 3/31/25
 Version: 0.5
     +1 Working Prototype
     +0.1 Finished a function
     +0.01 Small Changes/Debugging
 ---------------------------------------
 Changes:
-    - Moved the checker codes outside muna
+    - Removed int Turn, Go and Over
 --------------------------------------
 Code Notes [Bugs or other stuff]:
     - 
