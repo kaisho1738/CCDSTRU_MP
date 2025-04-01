@@ -1,4 +1,4 @@
-#include "functions_Final_v2.1.c"
+#include "mpFunctions.c"
 /*
  Description: A 4x4 Tic-Tac-Toe Game where Uno, Dos and Tres play against each other.
  Uno and Tres can mark coordinates while Dos can remove marks. When the board fills up
